@@ -25,3 +25,10 @@ Citrix, Omnissa Horizon, VMware ESXi/vSphere 기반 공공기관 VDI 딜리버�
 - 패스워드/API 키/접속 토큰은 문서에 저장하지 않습니다.
 - 장애/변경/점검은 날짜, 담당자, 영향도, 조치결과를 남깁니다.
 - 공공기관 제출 문서는 객관적이고 간결한 문체를 사용합니다.
+
+
+## maint 저장소에서 가져온 정보
+
+- `maint-repo-summary.md` — `infrabank/maint` 저장소 구조와 운영 규칙 요약
+- `support-history/` — 기존 고객사별 기술지원 요청 내역 및 산출물 인벤토리
+- `templates/sr-wiki-template.md` — maint SR 위키 표준 스키마 기반 템플릿
