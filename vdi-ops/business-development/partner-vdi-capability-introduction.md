@@ -88,7 +88,7 @@
 
 안녕하세요.
 
-공공기관 VDI 환경을 중심으로 Citrix, Omnissa Horizon, VMware vSphere/ESXi/vCenter 관련 구축·운영·유지보수 기술지원을 수행하고 있습니다.
+(주)마이로켓 제현우입니다. 공공기관 VDI 환경을 중심으로 Citrix, Omnissa Horizon, VMware vSphere/ESXi/vCenter 관련 구축·운영·유지보수 기술지원을 수행하고 있습니다.
 
 아래와 같은 업무에서 협력 가능합니다.
 
@@ -103,13 +103,14 @@ VDI/Horizon/Citrix/ESXi/vCenter 관련 공고나 프로젝트에서 기술 인�
 
 감사합니다.
 
+(주)마이로켓
 제현우 드림
 
 ---
 
 ## 6. 협력사 카카오톡/문자 짧은 버전
 
-안녕하세요. 공공기관 VDI 쪽으로 Citrix, Omnissa Horizon, VMware vSphere/ESXi/vCenter 구축·유지보수 기술지원 가능합니다. 정기점검, 장애분석, 인증서/UAG/접속오류, vCenter/ESXi 업그레이드, 스토리지 이관, 작업계획서·완료보고서 같은 산출물 지원도 가능합니다. VDI 관련 공고나 프로젝트 있으시면 기술지원/제안 지원으로 협력 가능합니다.
+안녕하세요. (주)마이로켓 제현우입니다. 공공기관 VDI 쪽으로 Citrix, Omnissa Horizon, VMware vSphere/ESXi/vCenter 구축·유지보수 기술지원 가능합니다. 정기점검, 장애분석, 인증서/UAG/접속오류, vCenter/ESXi 업그레이드, 스토리지 이관, 작업계획서·완료보고서 같은 산출물 지원도 가능합니다. VDI 관련 공고나 프로젝트 있으시면 기술지원/제안 지원으로 협력 가능합니다.
 
 ---
 
