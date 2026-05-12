@@ -32,3 +32,11 @@
 
 - 3~5영업일 내 회신 없으면 리마인드는 별도 승인 후 1회만 검토.
 - 회신이 오면 `partner-vdi-capability-introduction.md` 기반으로 상세 소개 또는 미팅 제안.
+
+## 청담정보기술 재발송
+
+`sales@cdit.co.kr`이 Microsoft 365 그룹 외부수신 제한으로 반송되어, 현우님 승인 후 `service@cdit.co.kr` 단독으로 재발송함.
+
+| 업체 | 수신 이메일 | 제목 | Gmail message id | thread id | 상태 |
+|---|---|---|---|---|---|
+| 청담정보기술 | service@cdit.co.kr | (주)마이로켓 — VDI/가상화 기술지원 협력 문의 | 19e1e45aad666547 | 19e1e45aad666547 | 재발송 완료 |
