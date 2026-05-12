@@ -2,7 +2,3 @@ priority,company,region_fit,office_or_region,website,public_email_or_form,phone,
 1,청담정보기술(주),서울/VDI전문,http://www.cdit.co.kr,"sales@cdit.co.kr / service@cdit.co.kr","02-3442-5588 / 02-3442-6868",영업/기술지원 이메일,"VMware Horizon 데스크톱 가상화 페이지 보유. VDI 직접 연관성 높음",http://www.cdit.co.kr/sub02/07.php,ready,"서울 업체지만 VDI 전문성 때문에 우선 후보"
 1,유엔넷(주),서울/Citrix,https://unnet.co.kr,info@unnet.co.kr,,대표 이메일,"Citrix 관련 솔루션 취급 후보. Citrix 프로젝트/총판 협력 가능성",https://unnet.co.kr,ready,"Citrix 라인 연결용"
 1,오픈베이스,서울/대형SI,https://www.openbase.co.kr,"tsc@openbase.co.kr / webmaster@openbase.co.kr / 온라인 문의",02-3404-5700,기술지원센터/문의,"디지털 플랫폼/SI, 기술지원센터 운영. 공공·대형 프로젝트 협력 가능성",https://www.openbase.co.kr,ready,"webmaster는 일반 문의 성격이므로 tsc/온라인 문의 우선"
-1,에스넷시스템,서울/대형NI·SI,https://www.snetsystems.co.kr,"biz@snetsystems.co.kr / pr_team@snetsystems.co.kr / ir@snetsystems.co.kr",02-3469-2994,사업문의/대표전화,"네트워크·인프라 대형 SI/NI. 대전·세종 공공 입찰 수행 가능성 높음",https://www.snetsystems.co.kr/contact,ready,"biz 메일 우선. HR/IR/PR은 발송 제외 권장"
-2,굿모닝아이텍,서울/가상화·클라우드,https://www.goodmit.co.kr,온라인 문의,02-721-0357,문의폼/대표전화,"VMware/클라우드/인프라 분야로 알려진 서울권 협력 후보. 공개 이메일은 확인 못함",https://www.goodmit.co.kr/inquiry,form_only,"문의폼 또는 전화 확인 후 발송"
-2,메가존클라우드,서울/클라우드MSP,https://www.megazone.com,cloud@megazone.com,,대표 클라우드 문의,"대형 클라우드 MSP. 온프레미스 VDI보다는 클라우드/DaaS/마이그레이션 협력 후보",https://www.megazone.com/contact,ready,"규모가 커서 콜드메일 반응률은 낮을 수 있음"
-3,다우기술,서울/대형IT,https://www.daou.co.kr,문의폼/대표전화,070-8707-1000,대표전화,"대형 IT서비스/솔루션. 직접 VDI 타깃성은 낮으나 공공 사업 참여 가능",https://www.daou.co.kr,hold,"VDI 관련 담당 라인 확인 전 후순위"
