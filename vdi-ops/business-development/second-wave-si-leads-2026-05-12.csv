@@ -1,0 +1,21 @@
+priority,company,region_strategy,website,public_email_or_form,phone,relevance,status,notes
+1,굿모닝아이텍,서울 SI가 충청권 공공사업 수행 시 협력,https://www.goodmit.co.kr,문의폼,02-721-0357,VMware/클라우드/인프라 전문 후보,form_first,공개 이메일 미확인. 문의폼 우선
+1,포유네트웍스,서울 Citrix/가상화 후보,http://www.forunet.co.kr,문의폼/홈페이지 확인 필요,,Citrix/가상화 후보,needs_manual_check,공개 연락처 추가 확인 필요
+1,링네트,서울 대형 NI/SI 후보,https://www.ringnet.co.kr,문의폼/대표 연락처 확인 필요,,네트워크/SI/공공 인프라 후보,needs_manual_check,대전세종 공공사업 하도급 가능성 검토
+1,콤텍시스템,서울 대형 SI 후보,https://www.comtec.co.kr,문의폼/대표 연락처 확인 필요,,공공/금융 SI·인프라 후보,needs_manual_check,대형사라 담당 라인 확인 필요
+1,대신정보통신,서울/전국 공공 SI 후보,https://www.dsic.co.kr,문의폼/대표 연락처 확인 필요,,공공 SI/유지보수 후보,needs_manual_check,공공 유지보수 입찰 파트너 후보
+1,쌍용정보통신,서울/전국 공공 SI 후보,https://www.sicc.co.kr,문의폼/대표 연락처 확인 필요,,공공 SI/운영 후보,needs_manual_check,대형 공공사업 하도급 가능성
+1,아이티센,서울/공공 SI 그룹,https://www.itcen.co.kr,문의폼/대표 연락처 확인 필요,,공공 SI 그룹 후보,needs_manual_check,그룹 내 담당사 확인 필요
+1,메타넷티플랫폼,서울 클라우드/인프라 후보,https://www.metanettplatform.com,문의폼,확인 필요,클라우드/인프라/Managed Service 후보,form_first,온프레미스 VDI보다는 클라우드/전환 사업 쪽
+1,소프트센,서울 IT서비스/SI 후보,https://www.softcen.co.kr,문의폼/대표 연락처 확인 필요,,IT서비스/SI 후보,needs_manual_check,공공/의료/교육 SI 가능성
+1,메가존클라우드,서울 클라우드 MSP,https://www.megazone.com,cloud@megazone.com,,클라우드/DaaS/마이그레이션 후보,ready,대형사라 반응률 낮을 수 있음
+2,베스핀글로벌,서울 클라우드 MSP,https://www.bespinglobal.com,문의폼/대표 연락처 확인 필요,,클라우드 MSP/DaaS 후보,form_first,클라우드 전환/공공 클라우드 협력 후보
+2,나무기술,서울 클라우드/VDI 후보,https://www.namutech.co.kr,문의폼/대표 연락처 확인 필요,,클라우드/VDI/가상화 후보,form_first,VDI·클라우드 직접 연관성 확인 필요
+2,클루커스,서울 클라우드 MSP,https://www.cloocus.com,문의폼/대표 연락처 확인 필요,,클라우드/MSP 후보,form_first,Azure/클라우드 전환 협력 후보
+2,효성인포메이션시스템,서울 인프라/스토리지 후보,https://www.his21.co.kr,문의폼/대표 연락처 확인 필요,,스토리지/인프라/가상화 연계 후보,form_first,스토리지 이관/인프라 구축 연계
+2,에티버스,서울 총판/클라우드 후보,https://www.eteverse.co.kr,문의폼/대표 연락처 확인 필요,,IT 총판/클라우드 후보,form_first,총판 라인 협력 후보
+2,솔트웨어,서울 클라우드/공공 SI 후보,https://www.saltware.co.kr,문의폼/대표 연락처 확인 필요,,클라우드/공공 SI/보안 후보,form_first,현우님 Gmail 자료 수신 이력 있어 별도 확인 가능
+2,영우디지탈,서울 IT 총판/솔루션 후보,https://www.youngwoo.co.kr,문의폼/대표 연락처 확인 필요,,IT 총판/솔루션 후보,form_first,VMware/Citrix 총판 라인 여부 확인 필요
+2,디모아,서울 SW총판/클라우드 후보,https://www.dimoa.co.kr,문의폼/대표 연락처 확인 필요,,SW 총판/클라우드 후보,form_first,라이선스/총판 협력 후보
+2,시스원,서울 공공 SI/유지보수 후보,https://www.sysone.co.kr,문의폼/대표 연락처 확인 필요,,공공 SI/운영/유지보수 후보,form_first,공공 시스템 운영 하도급 후보
+2,효성ITX,서울 IT서비스 후보,https://www.hyosungitx.com,문의폼/대표 연락처 확인 필요,,IT서비스/컨택센터/인프라 후보,needs_manual_check,VDI 직접성은 낮아 후순위
