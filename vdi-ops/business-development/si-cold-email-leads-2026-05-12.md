@@ -27,7 +27,7 @@
 |---:|---|---|---|---|---|
 | 2 | 청담정보기술 | 대전 지사 여부 확인 필요 | sales@cdit.co.kr / service@cdit.co.kr | 02-3442-5588 / 6868 | VMware Horizon 데스크톱 가상화 페이지 보유 |
 | 2 | 에이디씨엔에스 | 지역 밖/원격 | jmw1016@adcns.co.kr | - | VMware vSphere/Horizon/vSAN/NSX 취급. 후순위 |
-| 2 | 유엔넷 | 지역 밖/원격 | info@unnet.co.kr | - | Citrix 라인 연결용 후순위 |
+| 2 | 유앤넷 | 지역 밖/원격 | info@unnet.co.kr | - | Citrix 라인 연결용 후순위 |
 | 3 | 창리정보통신 | 서울/원격 | changli@clnws.co.kr | 02-588-0404 | 통합유지보수/스토리지/네트워크. 지역 밖 후순위 |
 
 상세 DB: `si-cold-email-leads-2026-05-12.csv`

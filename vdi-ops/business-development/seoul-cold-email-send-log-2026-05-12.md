@@ -16,7 +16,7 @@
 | 업체 | 수신 이메일 | 제목 | Gmail message id | thread id | 상태 |
 |---|---|---|---|---|---|
 | 청담정보기술 | sales@cdit.co.kr, service@cdit.co.kr | (주)마이로켓 — 대전·세종권 VDI/가상화 기술지원 협력 문의드립니다 | 19e1e40ba8c21559 | 19e1e40ba8c21559 | 발송 완료 |
-| 유엔넷 | info@unnet.co.kr | (주)마이로켓 — Citrix/VDI 기술지원 협력 문의드립니다 | 19e1e40be4520c19 | 19e1e40be4520c19 | 발송 완료 |
+| 유앤넷 | info@unnet.co.kr | (주)마이로켓 — Citrix/VDI 기술지원 협력 문의드립니다 | 19e1e40be4520c19 | 19e1e40be4520c19 | 발송 완료 |
 | 오픈베이스 | tsc@openbase.co.kr | (주)마이로켓 — 충청권 VDI/가상화 현장 기술지원 협력 문의드립니다 | 19e1e40ca53fd7c9 | 19e1e40ca53fd7c9 | 발송 완료 |
 
 ## 제외
