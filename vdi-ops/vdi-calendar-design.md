@@ -55,9 +55,9 @@ Google Calendar 자체는 이벤트별 색상 지정이 가능하므로 고객�
 
 ### MODS
 
-- 기준: 매월 세 번째 수요일
+- 기준: 매월 세 번째 화요일
 - 시간: 기본 10:00-11:30 권장
-- 반복: 매월 / 세 번째 수요일
+- 반복: 매월 / 세 번째 화요일
 - 알림:
   - 3일 전 오전 9시
   - 1일 전 오전 9시
@@ -88,9 +88,9 @@ Google Calendar 자체는 이벤트별 색상 지정이 가능하므로 고객�
 
 - 기준: 월간점검 + 월말 계산서
 - 현재 확인 사항:
-  - 2026-05-20 10:00 `KINS 월간` 일정이 중복 2건 존재
+  - 2026-05-20 10:00 `KINS 월간` 일정 기준
   - 월말 `KINS계산서발행` 반복 존재
-- 먼저 중복 이벤트 정리 필요
+  - 2026-05-12 기준 Google Calendar 원본 중복 반복 시리즈 1개 정리 완료
 
 ### MPM/인사혁신처
 
@@ -249,15 +249,24 @@ Samsung Calendar는 보조 확인용으로만 둔다.
 - maint 저장소 SR/환경정보와 Calendar 일정 연결
 - 이전 시 `vdi-ops/customer-check-schedule.md`, `vdi-ops/vdi-calendar-design.md`를 기준으로 복원
 
-## 11. 1차 정리 작업 제안
+## 11. 1차 정리 작업 제안 / 진행 상태
 
 다음 순서로 정리하면 안정적이다.
 
-1. Google Calendar에 `VDI 고객사 점검` 캘린더 생성
-2. 기존 `제현우 확정` 캘린더의 VDI 관련 일정 식별
-3. MODS 반복 규칙을 매월 세 번째 화요일로 정정
-4. KINS 중복 월간 일정 정리
-5. KISTI/KRIHS/KINS/MPM/KRISO 일정 신규 캘린더로 이동 또는 복제
+1. Google Calendar에 `VDI 고객사 점검` 캘린더 생성 — 완료
+2. 기존 `제현우 확정` 캘린더의 VDI 관련 일정 식별 — 완료
+3. MODS 반복 규칙을 매월 세 번째 화요일로 정정 — 완료
+4. KINS 중복 월간 일정 정리 — 완료
+5. KISTI/KRIHS/KINS/MPM/KRISO 일정 신규 캘린더로 복제 — 완료
+
+생성된 Google Calendar:
+
+```text
+VDI 고객사 점검
+calendar id: [private-calendar-id]
+```
+
+주의: 기존 `제현우 확정` 일정은 안전을 위해 삭제하지 않고, VDI 전용 캘린더에 우선 복제했다. Business Calendar 2에서 중복 표시가 불편하면 기존 캘린더 표시를 조정하거나, 확인 후 원본 VDI 일정을 이동/삭제한다.
 6. 계산서 일정은 별도 `VDI 행정/계산서` 캘린더로 분리할지 결정
 7. Business Calendar 2에서 새 캘린더만 별도 색상/위젯 표시
 
