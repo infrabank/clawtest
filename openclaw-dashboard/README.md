@@ -160,82 +160,30 @@ control-ui.rpc
 
 ## Additional dashboard tabs
 
-Captured on 2026-05-20T10:08:45.413Z. Sensitive tokens/IDs/emails were redacted before committing.
+Latest Usage capture refreshed on 2026-05-20T10:26:28Z. Sensitive tokens/IDs/emails were redacted before committing.
 
-## Sessions
+- `dashboard-sessions-redacted.png`
+- `dashboard-usage-redacted.png`
+- `dashboard-agents-redacted.png`
 
-![Sessions](./dashboard-sessions-redacted.png)
+### Current Usage summary from refreshed capture
 
-<details><summary>Redacted text snapshot</summary>
+- Total: 7.1M tokens / $7.72 / 3 sessions
+- Top agents:
+  - hyeonwoobot: $6.19 / 6.4M tokens
+  - jinhobot: $1.53 / 631.1K tokens
+- Session rows:
+  - hyeonwoobot direct Telegram: 5.6M tokens, 114 messages, 87 tools, 0 errors
+  - jinhobot direct Telegram: 631.1K tokens, 45 messages, 19 tools, 0 errors
+  - hyeonwoobot cron job: 820.3K tokens, 28 messages, 27 tools, 0 errors
 
-```text
-OpenClaw
-›
-main
-›
-Sessions
-Search
-⌘K
-CONTROL
-OpenClaw
-CHAT
-Chat
-CONTROL
-Overview
-Channels
-Instances
-Sessions
-Usage
-Cron Jobs
-AGENT
-Agents
-Skills
-Nodes
-Dreaming
-SETTINGS
-Config
-Communications
-Appearance
-Automation
-Infrastructure
-AI & Agents
-Debug
-Logs
-Docs
-VERSION
-v2026.5.7
-Update available: v2026.5.18 (running v2026.5.7). Update now 
-Sessions
-Active sessions and defaults.
-Sessions
-Active session keys and per-session overrides.
-Loading…
-FILTERS
-Hide filters
-Active
-Limit
-Global
-Unknown
-Show archived
-	KEY 
-	LABEL	KIND 
-	RUNTIME	UPDATED 
-	TOKENS 
-	COMPACTION	THINKING	FAST	VERBOSE	REASONING
+Note: the dashboard still displayed a cache rebuilding/loading indicator (`partial: 1 pending, 1 stale, 38 cached`), but the usage metrics and session rows were populated.
 
-No sessions match your filters.
-Show all
-```
-
-</details>
-
-## Usage
-
-![Usage](./dashboard-usage-redacted.png)
-
-<details><summary>Redacted text snapshot</summary>
+### Redacted Usage text snapshot
 
 ```text
+Captured: 2026-05-20T10:26:28.268Z
+
 OpenClaw
 ›
 main
@@ -274,84 +222,170 @@ v2026.5.7
 Update available: v2026.5.18 (running v2026.5.7). Update now 
 Usage
 API usage and costs.
-Usage Overview
-Loading
-to
-```
-
-</details>
-
-## Agents
-
-![Agents](./dashboard-agents-redacted.png)
-
-<details><summary>Redacted text snapshot</summary>
-
-```text
-OpenClaw
-›
-main
-›
-Agents
-Search
-⌘K
-CONTROL
-OpenClaw
-CHAT
-Chat
-CONTROL
-Overview
-Channels
-Instances
-Sessions
 Usage
-Cron Jobs
-AGENT
-Agents
-Skills
-Nodes
-Dreaming
-SETTINGS
-Config
-Communications
-Appearance
-Automation
-Infrastructure
-AI & Agents
-Debug
-Logs
-Docs
-VERSION
-v2026.5.7
-Update available: v2026.5.18 (running v2026.5.7). Update now 
-Agents
-Workspaces, tools, identities.
-main (default)
-bill
-chanyeongbot
+See where tokens go, when sessions spike, and what drives cost.
+Filters
+Loading
+7.1M
+Tokens
+$7.72
+Cost
+3
+sessions
+Pin
+Export ▾
+Today
+7d
+30d
+to
+Local
+UTC
+Tokens
+Cost
+Refresh
+Filter (client-side)
+3 sessions in range
+Agent
+All
+Channel
+All
+Provider
+All
+Model
+All
+Tool
+All
+Tip: use filters or click bars to refine days.
+Usage cache is rebuilding in the background. Displayed totals may be stale. partial: 1 pending, 1 stale, 38 cached
+Usage Overview
+MESSAGES ?
+187
+28 user · 159 assistant
+THROUGHPUT ?
+18.1K tok/min
+$0.0197 / min
+TOOL CALLS ?
+133
+11 tools used
+AVG TOKENS / MSG ?
+37.8K
+Across 187 messages
+CACHE HIT RATE ?
+91.3%
+6.4M cached · 7.0M prompt
+ERROR RATE ?
+0.00%
+0 errors · 2h 10m avg session
+AVG COST / MSG ?
+$0.0413
+$7.72 total
+SESSIONS ?
+3
+of 3 in range
+ERRORS ?
+0
+0 tool results
+TOP MODELS
+gpt-5.5
+$7.72
+7.1M · 159 msgs
+TOP PROVIDERS
+openai-codex
+$7.72
+7.1M · 159 msgs
+TOP TOOLS
+exec
+81
+calls
+process
+17
+calls
+update_plan
+7
+calls
+memory_search
+7
+calls
+read
+6
+calls
+image_generate
+4
+calls
+TOP AGENTS
 hyeonwoobot
+$6.19
+6.4M
 jinhobot
-jinseongbot
-junhobot
-lycos
-migyeongbot
-robertbot
-soonyongbot
-tiago
-Copy ID
-Default
-Refresh
-Overview
-Files
-Tools
-Skills
-Channels
-Cron Jobs
-Core Files
-Bootstrap persona, identity, and tool guidance.
-Refresh
-Load the agent workspace files to edit core instructions.
+$1.53
+631.1K
+TOP CHANNELS
+telegram
+$6.87
+6.3M
+PEAK ERROR DAYS
+No error data
+PEAK ERROR HOURS
+No error data
+Activity by Time
+Estimated from session spans (first/last activity). Time zone: Local.
+7.1M tokens
+DAY OF WEEK
+Sun
+0
+Mon
+0
+Tue
+0
+Wed
+7.1M
+Thu
+0
+Fri
+0
+Sat
+0
+HOURS
+0 → 23
+Midnight
+4am
+8am
+Noon
+4pm
+8pm
+Low → High token density
+Daily Usage
+No data
+TOKENS BY TYPE
+Output 49.2K
+Input 607.9K
+Cache Write 0
+Cache Read 6.4M
+Total: 7.1M
+Sessions
+3 shown
+2.4M avg
+0 errors
+All
+Recently viewed
+SORT
+Cost
+Errors
+Messages
+Recent
+Tokens
+↓
+agent:hyeonwoobot:telegram:direct:***
+channel:telegram · agent:hyeonwoobot · provider:openai-codex · model:gpt-5.5 · msgs:114 · tools:87 · errors:0 · dur:5h 30m
+Copy
+5.6M
+agent:jinhobot:telegram:direct:***
+channel:telegram · agent:jinhobot · provider:openai-codex · model:gpt-5.5 · msgs:45 · tools:19 · errors:0 · dur:57m 41s
+Copy
+631.1K
+Cron: ***REDACTED***
+agent:hyeonwoobot · provider:openai-codex · model:gpt-5.5 · msgs:28 · tools:27 · errors:0 · dur:3m 31s
+Copy
+820.3K
+
 ```
-
-</details>
-
