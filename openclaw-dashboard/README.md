@@ -157,3 +157,201 @@ control-ui.rpc
 ***REDACTED***
 { "tab": "chat", "name": "long-animation-frame", "startTimeMs": 379, "durationMs": 136, "blockingDurationMs":
 ```
+
+## Additional dashboard tabs
+
+Captured on 2026-05-20T10:08:45.413Z. Sensitive tokens/IDs/emails were redacted before committing.
+
+## Sessions
+
+![Sessions](./dashboard-sessions-redacted.png)
+
+<details><summary>Redacted text snapshot</summary>
+
+```text
+OpenClaw
+›
+main
+›
+Sessions
+Search
+⌘K
+CONTROL
+OpenClaw
+CHAT
+Chat
+CONTROL
+Overview
+Channels
+Instances
+Sessions
+Usage
+Cron Jobs
+AGENT
+Agents
+Skills
+Nodes
+Dreaming
+SETTINGS
+Config
+Communications
+Appearance
+Automation
+Infrastructure
+AI & Agents
+Debug
+Logs
+Docs
+VERSION
+v2026.5.7
+Update available: v2026.5.18 (running v2026.5.7). Update now 
+Sessions
+Active sessions and defaults.
+Sessions
+Active session keys and per-session overrides.
+Loading…
+FILTERS
+Hide filters
+Active
+Limit
+Global
+Unknown
+Show archived
+	KEY 
+	LABEL	KIND 
+	RUNTIME	UPDATED 
+	TOKENS 
+	COMPACTION	THINKING	FAST	VERBOSE	REASONING
+
+No sessions match your filters.
+Show all
+```
+
+</details>
+
+## Usage
+
+![Usage](./dashboard-usage-redacted.png)
+
+<details><summary>Redacted text snapshot</summary>
+
+```text
+OpenClaw
+›
+main
+›
+Usage
+Search
+⌘K
+CONTROL
+OpenClaw
+CHAT
+Chat
+CONTROL
+Overview
+Channels
+Instances
+Sessions
+Usage
+Cron Jobs
+AGENT
+Agents
+Skills
+Nodes
+Dreaming
+SETTINGS
+Config
+Communications
+Appearance
+Automation
+Infrastructure
+AI & Agents
+Debug
+Logs
+Docs
+VERSION
+v2026.5.7
+Update available: v2026.5.18 (running v2026.5.7). Update now 
+Usage
+API usage and costs.
+Usage Overview
+Loading
+to
+```
+
+</details>
+
+## Agents
+
+![Agents](./dashboard-agents-redacted.png)
+
+<details><summary>Redacted text snapshot</summary>
+
+```text
+OpenClaw
+›
+main
+›
+Agents
+Search
+⌘K
+CONTROL
+OpenClaw
+CHAT
+Chat
+CONTROL
+Overview
+Channels
+Instances
+Sessions
+Usage
+Cron Jobs
+AGENT
+Agents
+Skills
+Nodes
+Dreaming
+SETTINGS
+Config
+Communications
+Appearance
+Automation
+Infrastructure
+AI & Agents
+Debug
+Logs
+Docs
+VERSION
+v2026.5.7
+Update available: v2026.5.18 (running v2026.5.7). Update now 
+Agents
+Workspaces, tools, identities.
+main (default)
+bill
+chanyeongbot
+hyeonwoobot
+jinhobot
+jinseongbot
+junhobot
+lycos
+migyeongbot
+robertbot
+soonyongbot
+tiago
+Copy ID
+Default
+Refresh
+Overview
+Files
+Tools
+Skills
+Channels
+Cron Jobs
+Core Files
+Bootstrap persona, identity, and tool guidance.
+Refresh
+Load the agent workspace files to edit core instructions.
+```
+
+</details>
+
